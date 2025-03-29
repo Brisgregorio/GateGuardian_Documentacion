@@ -1,9 +1,3 @@
-# Documentation ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-
-
-##
-
 ## Estructura de Archivos
 
 Proyecto Integrador -GateGuardian<br>
@@ -23,6 +17,5 @@ Proyecto Integrador -GateGuardian<br>
 |Mauricio Rosales Gabriel                   |[@elmau0834x](https://github.com/elmau0834x)     |Líder/Backend |Revisado y Aprobado
 |Teresa Vargas Fernández                    |[@TereVaFer](https://github.com/TereVaFer)       |FronEnd |Revisadp y aprobado|
 |Francisco Flores Amador                    |[@JFFA25](https://github.com/JFFA25)             |Base de datos|Revisado y aprovado|
-
-| T.S.U. Brisa Nallely Garcia Gregorio      |[@brisgregorio](https://github.com/Brisgregorio) |Documentador | Revisado y aprobado|
+| Brisa Nallely Garcia Gregorio             |[@brisgregorio](https://github.com/Brisgregorio) |Documentador | Revisado y aprobado|
 |Edwin Hernandez Campos                     |[@Edwincamp](https://github.com/Edwincamp)       |IoT|Revisado y Aprobado|
