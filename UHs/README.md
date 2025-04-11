@@ -1,5 +1,6 @@
-# GUI
-En este apartado interactúan con un sistema informático, aplicaciones o dispositivos electrónicos utilizando elementos gráficos como iconos, botones, ventanas y menús.
+# User Help Services (UHS) 
+
+Los Servicios de Ayuda al Usuario tienen como objetivo guiar al usuario en el uso correcto del sistema GateGuardian y ofrecer apoyo ante situaciones de duda, error o emergencia.
 
 **| - Documentation**<br>
 &nbsp;&nbsp;|- assets<br>
@@ -9,13 +10,11 @@ En este apartado interactúan con un sistema informático, aplicaciones o dispos
 &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- SiteMap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**|- Sketches**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
-&nbsp;&nbsp;|- HTML<br>
-&nbsp;&nbsp;|- JS<br>
 &nbsp;&nbsp;|- NFRs<br>
 &nbsp;&nbsp;|- RFs<br>
-&nbsp;&nbsp;|- UHs<br>
+&nbsp;&nbsp;**|- UHs**<br>
 &nbsp;&nbsp;|- UserRoles<br>
 
 
@@ -27,5 +26,3 @@ En este apartado interactúan con un sistema informático, aplicaciones o dispos
 |Francisco Flores Amador                    |[@JFFA25](https://github.com/JFFA25)             |Base de datos|Revisado y aprovado|
 | Brisa Nallely Garcia Gregorio             |[@brisgregorio](https://github.com/Brisgregorio) |Documentador | Revisado y aprobado|
 |Edwin Hernandez Campos                     |[@Edwincamp](https://github.com/Edwincamp)       |IoT|Revisado y Aprobado|
-
-

@@ -1,5 +1,5 @@
-# GUI
-En este apartado interactúan con un sistema informático, aplicaciones o dispositivos electrónicos utilizando elementos gráficos como iconos, botones, ventanas y menús.
+# NFRs (Requerimientos No Funcionales)
+Es un componente crucial en el desarrollo de sistemas y software, ya que define las características y atributos que el sistema debe cumplir más allá de sus funciones básicas. Estos requerimientos no se refieren a qué debe hacer el sistema, sino a cómo debe hacerlo. Describe el propósito de la carpeta de requerimientos no funcionales. Su objetivo es especificar los atributos del sistema que garantizan su rendimiento, seguridad, usabilidad y otras características importantes que afectan la calidad general del producto.
 
 **| - Documentation**<br>
 &nbsp;&nbsp;|- assets<br>
@@ -9,11 +9,9 @@ En este apartado interactúan con un sistema informático, aplicaciones o dispos
 &nbsp;&nbsp;&nbsp;&nbsp;|- Mockups<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Prototype<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- SiteMap<br>
-&nbsp;&nbsp;&nbsp;&nbsp;**|- Sketches**<br>
+&nbsp;&nbsp;&nbsp;&nbsp;|- Sketches<br>
 &nbsp;&nbsp;&nbsp;&nbsp;|- Wireframes<br>
-&nbsp;&nbsp;|- HTML<br>
-&nbsp;&nbsp;|- JS<br>
-&nbsp;&nbsp;|- NFRs<br>
+&nbsp;&nbsp;**|- NFRs**<br>
 &nbsp;&nbsp;|- RFs<br>
 &nbsp;&nbsp;|- UHs<br>
 &nbsp;&nbsp;|- UserRoles<br>
@@ -27,5 +25,3 @@ En este apartado interactúan con un sistema informático, aplicaciones o dispos
 |Francisco Flores Amador                    |[@JFFA25](https://github.com/JFFA25)             |Base de datos|Revisado y aprovado|
 | Brisa Nallely Garcia Gregorio             |[@brisgregorio](https://github.com/Brisgregorio) |Documentador | Revisado y aprobado|
 |Edwin Hernandez Campos                     |[@Edwincamp](https://github.com/Edwincamp)       |IoT|Revisado y Aprobado|
-
-

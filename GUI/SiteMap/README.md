@@ -1,5 +1,5 @@
-# GUI
-En este apartado interactúan con un sistema informático, aplicaciones o dispositivos electrónicos utilizando elementos gráficos como iconos, botones, ventanas y menús.
+# SiteMap
+SiteMap proporciona una vista general de la estructura y organización de las páginas y secciones dentro del sitio.
 
 **| - Documentation**<br>
 &nbsp;&nbsp;|- assets<br>
@@ -27,5 +27,3 @@ En este apartado interactúan con un sistema informático, aplicaciones o dispos
 |Francisco Flores Amador                    |[@JFFA25](https://github.com/JFFA25)             |Base de datos|Revisado y aprovado|
 | Brisa Nallely Garcia Gregorio             |[@brisgregorio](https://github.com/Brisgregorio) |Documentador | Revisado y aprobado|
 |Edwin Hernandez Campos                     |[@Edwincamp](https://github.com/Edwincamp)       |IoT|Revisado y Aprobado|
-
-
