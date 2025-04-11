@@ -15,7 +15,6 @@
 
 ### Diagrama de equipo ![](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/Agregar%20texto.png?raw=true) <br></br><br></br>
 
-
 ## Estructura de Archivos
 Proyecto Integrador -GateGuardian<br>
 **| - Documentation**<br>
@@ -73,7 +72,7 @@ Implementar un sistema inteligente de control de acceso a través de una aplicac
 </p>
 <hr>
 
-    ##DIAGRAMA DE GANTT
+ ##DIAGRAMA DE GANTT
     ### Diagrama ![](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/Horario%20escolar%20Planificador%20Agenda%20Doodle%20Colorido%20Morado%20(1).png?raw=true) <br></br><br></br>
 
 ## Equipo de Desarrollo
