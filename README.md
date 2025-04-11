@@ -1,5 +1,5 @@
-![UTXJ Logo](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/utxj.png
-) ![TI Logo]( https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/utxj2.png
+![UTXJ Logo](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/main/assets/utxj.png
+) ![TI Logo]( https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/main/assets/utxj2.png
 )
 # Documentation ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -11,9 +11,9 @@
 
 | LOGO DE Aplicacion        | LOGO DE LA EMPRESA       |
 |------------------------|--------------------------|
-| ![Logo de app](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/WhatsApp%20Image%202025-04-01%20at%2010.31.09%20AM.jpeg) | ![Logo de la Empresa](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/WhatsApp%20Image%202025-03-21%20at%201.58.59%20PM.jpeg) |
+| ![Logo de app](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/main/assets/WhatsApp%20Image%202025-04-01%20at%2010.31.09%20AM.jpeg) | ![Logo de la Empresa](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/main/assets/WhatsApp%20Image%202025-03-21%20at%201.58.59%20PM.jpeg) |
 
-### Diagrama de equipo ![](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/Agregar%20texto.png?raw=true) <br></br><br></br>
+### Diagrama de equipo ![](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/main/assets/Agregar%20texto.png?raw=true) <br></br><br></br>
 
 ## Estructura de Archivos
 Proyecto Integrador -GateGuardian<br>
@@ -73,7 +73,7 @@ Implementar un sistema inteligente de control de acceso a través de una aplicac
 <hr>
 
  ##DIAGRAMA DE GANTT
-    ### Diagrama ![](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/Brisa/assets/Horario%20escolar%20Planificador%20Agenda%20Doodle%20Colorido%20Morado%20(1).png?raw=true) <br></br><br></br>
+    ### Diagrama ![](https://github.com/Brisgregorio/GateGuardian_Documentacion/blob/main/assets/Horario%20escolar%20Planificador%20Agenda%20Doodle%20Colorido%20Morado%20(1).png?raw=true) <br></br><br></br>
 
 ## Equipo de Desarrollo
 |Integrante|Contacto|Rol|Observaciones|
